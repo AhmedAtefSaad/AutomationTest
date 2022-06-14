@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.examples.testRunners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.455 s - in org.examples.testRunners.TestRunner
